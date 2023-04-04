@@ -1,5 +1,5 @@
 title: Socially Distant
 description: A website for all my community projects
-show_downloads: false
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
